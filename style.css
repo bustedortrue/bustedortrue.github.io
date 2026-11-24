@@ -10,3 +10,4 @@ h2 { font-size: 1.15rem; margin-top: 32px; }
 a { color: var(--link); }
 .meta { color: var(--muted); margin-top: 0; }
 nav { margin-top: 40px; color: var(--muted); }
+.yt { display: flex; align-items: center; gap: 12px; font-weight: 600; }
